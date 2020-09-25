@@ -1,0 +1,172 @@
+
+A =
+
+  Columns 1 through 3
+
+     1     2     3
+     5     6     7
+     9    10    11
+    13    14    15
+
+  Column 4
+
+     4
+     8
+    12
+    16
+
+
+B =
+
+    -1     1
+    -2     2
+    -3     3
+    -4     4
+
+
+C1 =
+
+  Columns 1 through 3
+
+     9    10    11
+    13    14    15
+
+  Column 4
+
+    12
+    16
+
+
+C2 =
+
+  Columns 1 through 3
+
+     1     2     3
+     5     6     7
+     9    10    11
+     3     7    11
+     4     8    12
+
+  Column 4
+
+     4
+     8
+    12
+    15
+    16
+
+
+C3 =
+
+     3     4
+     7     8
+    11    12
+    15    16
+
+
+C4 =
+
+  Columns 1 through 3
+
+     3     4    -1
+     7     8    -2
+    11    12    -3
+    15    16    -4
+
+  Column 4
+
+     1
+     2
+     3
+     4
+
+
+ans =
+
+    21
+
+
+ans =
+
+   -30    30
+   -70    70
+  -110   110
+  -150   150
+
+[Warning: Matrix is
+close to singular or
+badly scaled. Results
+may be inaccurate.
+RCOND =  3.265362e-19.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CL3P2', '/Users/kaarthigeswarana.gnapathy/Desktop/MATLAB/Homework 1/Core Lesson 3/CL3P2.m', 50)" style="font-weight:bold">CL3P2</a> (<a href="matlab: opentoline('/Users/kaarthigeswarana.gnapathy/Desktop/MATLAB/Homework 1/Core Lesson 3/CL3P2.m',50,0)">line 50</a>)
+] 
+
+ans =
+
+   1.0e+16 *
+
+  Columns 1 through 2
+
+    0.1501   -0.0375
+   -1.9516    1.9516
+    3.4528   -3.7905
+   -1.6513    1.8765
+
+  Columns 3 through 4
+
+   -0.3753    0.2627
+    1.9516   -1.9516
+   -2.7772    3.1150
+    1.2010   -1.4261
+
+
+ans =
+
+  Columns 1 through 3
+
+     1     5     9
+     2     6    10
+     3     7    11
+     4     8    12
+
+  Column 4
+
+    13
+    14
+    15
+    16
+
+
+ans =
+
+  Columns 1 through 3
+
+    -1    -2    -3
+     1     2     3
+
+  Column 4
+
+    -4
+     4
+
+
+ans =
+
+  Columns 1 through 3
+
+   -30   -70  -110
+    30    70   110
+
+  Column 4
+
+  -150
+   150
+
+
+ans =
+
+     1
+     6
+    11
+    16
+
